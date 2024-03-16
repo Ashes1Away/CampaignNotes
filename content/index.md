@@ -5,6 +5,7 @@ title: Campaign Notes + Wiki
 - [[Conditions]]
 - [[List of Deities|Deities]]
 - [[Events]]
+- [[History]]
 - [[Locations]]
 - [[Player Characters]]
 - [[Ship Types]]
