@@ -1,7 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Campaign Notes + Wiki
 ---
-[[MainInfo/index|index]] [[DM/index|DM]]
-[[displayable|Testable]]
-test
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[Characters]]
+- Conditions
+- [[Deities]]
+- Events
+- Locations
+- Player Characters
+- Ship Types
+
+*Dm Vault
