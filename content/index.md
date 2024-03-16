@@ -3,10 +3,10 @@ title: Campaign Notes + Wiki
 ---
 - [[Characters]]
 - Conditions
-- [[Deities]]
+- [[List of Deities]]
 - Events
 - Locations
 - Player Characters
 - Ship Types
 
-*Dm Vault
+*[[Dm Vault]]*
