@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Ashes' Campaign Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ashes1away.github.io/CampaignNotes",
     ignorePatterns: ["private", "templates", ".obsidian","DM"],
     defaultDateType: "created",
     theme: {
