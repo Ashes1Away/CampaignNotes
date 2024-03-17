@@ -1,4 +1,5 @@
-![[Primordan.jpeg|400]]
+![[Primordan.jpg|400]]
+
 | | |
 |-|-|
 |Symbol| Golden Sun|
@@ -9,7 +10,7 @@
 
 ## Appearance
 
-Each race has it's own depiction of Primordan believing their form to be based off it's own. However the true form of Primordan is as a featureless humanoid it's visage formed of swirling galaxies. Often shown in simple robes among it's creations.<br>
+Each race has it's own depiction of Primordan believing their form to be based off it's own. However the true form of Primordan is as a featureless humanoid it's visage formed of swirling galaxies. Often shown in simple robes among it's creations.
 
 ## History
   

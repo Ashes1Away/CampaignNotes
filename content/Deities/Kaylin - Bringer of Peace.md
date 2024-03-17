@@ -1,4 +1,4 @@
-![[Kaylin.jpeg|400]]
+![[Kaylin.jpg|400]]
 
 |                    |                                                                                                   |
 | ------------------ | ------------------------------------------------------------------------------------------------- |
@@ -26,6 +26,8 @@ Clad in flowing robes of azure and silver, with a metal decorative helmet that o
 Throughout the ages, Kaylin's influence extended far beyond the boundaries of mortal comprehension, inspiring countless civilizations to seek unity and common ground in the face of adversity. With each graceful movement and poised gesture, they carried the silent promise of reconciliation and peace, guiding souls on a journey of harmony and understanding.
 
 In the darkest hours of cosmic conflict, Kaylin stood as a steadfast guardian of the eternal flame of peace, their wings outstretched to embrace the hearts of all who yearned for solace and tranquillity. Through their unwavering resolve and boundless compassion, they bridged the chasms of division and discord, weaving a tapestry of unity that spanned the expanse of time and space.
+
+ A pivotal chapter of Kaylin's history unfolds as they reached out to mortals of exceptional courage and strength, among them Beranter and Klyander. Witnessing their valiant deeds and unwavering commitment to righteousness, Kaylin bestowed upon them divine patronage, lifting them from the mortal realm to stand as champions of their cause. With wings spread wide and hearts afire with newfound purpose, Beranter and Klyander joined Kaylin's celestial ranks, their mortal origins imbuing them with a unique understanding of the struggles faced by those below. Together, they formed an unbreakable triad, their combined powers uniting to safeguard the cosmos and guide mortals along the path of peace and justice.
 
 As the ages passed and civilizations rose and fell, Kaylin's legend endured as a beacon of hope and inspiration, guiding the destinies of mortals and immortals alike. In the cosmic symphony of existence, their legacy remains a testament to the enduring power of peace, a timeless reminder that even amidst the chaos of the cosmos, harmony and reconciliation will always prevail.
 

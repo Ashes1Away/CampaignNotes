@@ -9,7 +9,7 @@
 
 - [[Wanaras - Traveller of Wilds]]
 - [[Klyander - Herder of Heroes]]
-- [[Beranter - Forger of  War]]
+- [[Beranter - Forger of  Battle]]
 - [[Heldia - Healer of Injury]]
 - [[Zyalax - Entomber of fallen]]
 - [[Xranper - Arbiter of Cost]]
