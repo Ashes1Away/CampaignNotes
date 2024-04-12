@@ -9,6 +9,12 @@
 
 ## Appearance
 
+(Text Goes Here)
+
 ## History
 
+(Text Goes Here)
+
 ## Worship
+
+(Text Goes Here)

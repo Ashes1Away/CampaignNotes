@@ -8,6 +8,7 @@
 | Domain             | Life<br>Nature                                                                                                                           |
 
 ## Appearance
+
 In form, Eelyf appears as a celestial figure, tall and slender, with flowing robes that seem to shimmer with ever-changing hues of azure, emerald, and opal. Its features are fluid and ever-shifting, mirroring the ebb and flow of life itself, with eyes that sparkle like stars and a serene countenance that exudes a sense of tranquility and grace.
 
 From Eelyf's outstretched hands emanates a gentle aura of warmth and rejuvenation, suffusing the air with the subtle fragrance of blooming flowers and fresh rain. Its presence evokes a profound sense of renewal and hope, inspiring those in its midst to embrace the cycle of life with reverence and awe.
