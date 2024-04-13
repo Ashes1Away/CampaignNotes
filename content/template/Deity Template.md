@@ -6,6 +6,7 @@
 | Alignment          |     |
 | Associated Deities |     |
 | Domain             |     |
+| Followers          |     |
 
 ## Appearance
 

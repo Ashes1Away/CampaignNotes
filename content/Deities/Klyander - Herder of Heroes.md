@@ -6,6 +6,7 @@
 | Alignment          | Lawful Good                                                                                                                          |
 | Associated Deities | [[Beranter - Forger of  Battle]]<br>[[Nemorias - Recorder of Fate]]<br>[[Taralk - Visage of Pride]]<br>[[Kaylin - Bringer of Peace]] |
 | Domain             | Heroes<br>Legends<br>Quests                                                                                                          |
+| Followers          | Valorites                                                                                                                            |
 
 ## Appearance
 

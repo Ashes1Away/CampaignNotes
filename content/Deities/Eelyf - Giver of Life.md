@@ -6,6 +6,7 @@
 | Alignment          | Lawful Good                                                                                                                              |
 | Associated Deities | [[Primordan - Light of Creation]]<br>[[Kaylin - Bringer of Peace]]<br>[[Jingtha - Custodian of Crops]]<br>[[Ypindo - Driver of Seasons]] |
 | Domain             | Life<br>Nature                                                                                                                           |
+| Followers          | Lifewardens                                                                                                                              |
 
 ## Appearance
 

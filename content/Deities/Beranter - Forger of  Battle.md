@@ -6,6 +6,7 @@
 | Alignment          | Lawful Good                                                                                         |
 | Associated Deities | [[Klyander - Herder of Heroes]]<br>[[Nemorias - Recorder of Fate]]<br>[[Kaylin - Bringer of Peace]] |
 | Domain             | Battle<br>Weapons<br>                                                                               |
+| Followers          | Legion of the Forgeborn                                                                             |
 
 ## Appearance
   
@@ -33,7 +34,7 @@ In the annals of history, Beranter stands as a testament to the enduring power o
 
 ## Worship
   
-In the solemn sanctuaries dedicated to Beranter, the Forger of Battle, worshippers gather with hearts ablaze with martial fervour and dedication. Known as the Legion of Forgeborn, these devout followers embody the spirit of martial prowess and strategic brilliance championed by their divine patron.
+In the solemn sanctuaries dedicated to Beranter, the Forger of Battle, worshippers gather with hearts ablaze with martial fervour and dedication. Known as the Legion of the Forgeborn, these devout followers embody the spirit of martial prowess and strategic brilliance championed by their divine patron.
 
 Clad in armour adorned with symbols of warfare and battle, the Forgeborn pay homage to Beranter through rigorous training and disciplined devotion to the art of combat. They hone their skills with blade and shield, bow and arrow, in emulation of their divine patron's legendary feats on the battlefield.
 

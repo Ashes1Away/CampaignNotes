@@ -6,6 +6,7 @@
 | Alignment          | Chaotic Good                                                                                       |
 | Associated Deities | [[Kaylin - Bringer of Peace]]<br>[[Ypindo - Driver of Seasons]]<br>[[Klyander - Herder of Heroes]] |
 | Domain             | Wild spaces<br>Travelers                                                                           |
+| Followers          | Wildseekers                                                                                        |
 
 ## Appearance
 

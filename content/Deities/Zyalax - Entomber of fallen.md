@@ -6,6 +6,7 @@
 | Alignment          | True Neutral                                                   |
 | Associated Deities | [[Heldia - Healer of Injury]]<br>[[Kaylin - Bringer of Peace]] |
 | Domain             | Death<br>Afterlife                                             |
+| Followers          | Mourning Keepers                                               |
 
 ## Appearance
 
@@ -24,7 +25,7 @@ Though their origins may be shrouded in mystery, Zyalax's legacy endures as a te
 
 ## Worship
 
-In the dimly lit halls of sanctuaries dedicated to Zyalax, worshippers gather with hearts heavy with grief yet lifted by the promise of solace and tranquility. Known as the Mourning Keepers, these devoted followers pay homage to the Entomber of Fallen with solemn rituals and quiet reverence.
+In the dimly lit halls of sanctuaries dedicated to Zyalax, worshippers gather with hearts heavy with grief yet lifted by the promise of solace and tranquillity. Known as the Mourning Keepers, these devoted followers pay homage to the Entomber of Fallen with solemn rituals and quiet reverence.
 
 Clad in garments of mourning, adorned with symbols of remembrance and respect, the Mourning Keepers come seeking comfort and guidance in the face of loss. They offer prayers and offerings to Zyalax, beseeching their aid in guiding the departed to their final rest and finding peace in the embrace of eternity.
 

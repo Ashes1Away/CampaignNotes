@@ -6,6 +6,7 @@
 | Alignment          | Lawful Neutral                                                                                    |
 | Associated Deities | [[Heldia - Healer of Injury]]<br>[[Zyalax - Entomber of fallen]]<br>[[Xranper - Arbiter of Cost]] |
 | Domain             | Death<br>Afterlife<br>Peace                                                                       |
+| Followers          | Harmonians                                                                                        |
 
 ## Appearance
 

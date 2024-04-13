@@ -1,11 +1,12 @@
 ![[Primordan.jpg|400]]
 
-| | |
-|-|-|
-|Symbol| Golden Sun|
-|Alignment| Lawful Good|
-|Associated Deities| [[Eelyf - Giver of Life]]<br>[[Kaylin - Bringer of Peace]]<br>[[Nemorias - Recorder of Fate]]<br>|
-|Domain| Creation of Worlds<br>Shaping of Flora & Fauna <br> |
+|                    |                                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| Symbol             | Golden Sun                                                                                        |
+| Alignment          | Lawful Good                                                                                       |
+| Associated Deities | [[Eelyf - Giver of Life]]<br>[[Kaylin - Bringer of Peace]]<br>[[Nemorias - Recorder of Fate]]<br> |
+| Domain             | Creation of Worlds<br>Shaping of Flora & Fauna <br>                                               |
+| Followers          | Primordians                                                                                       |
 
 
 ## Appearance

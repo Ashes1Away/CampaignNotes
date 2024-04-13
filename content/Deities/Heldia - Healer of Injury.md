@@ -6,6 +6,7 @@
 | Alignment          | Lawful Good                                                      |
 | Associated Deities | [[Zyalax - Entomber of fallen]]<br>[[Kaylin - Bringer of Peace]] |
 | Domain             | Healing<br>Medicine                                              |
+| Followers          | Faithful of Restoration                                          |
 
 ## Appearance
 

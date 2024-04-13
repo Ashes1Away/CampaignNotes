@@ -6,6 +6,7 @@
 | Alignment          | True Neutral                 |
 | Associated Deities | [[Slorn - Shaper of Chance]] |
 | Domain             | Fate<br>History              |
+| Followers          | Fateweavers                  |
 
 ## Appearance
 
@@ -21,10 +22,9 @@ In the annals of cosmic history, Nemorias' mechanized form serves as a beacon of
 
 ## History
 
-  
 In the chronicles of cosmic lore, Nemorias, the ethereal weaver of destiny, emerged from the annals of time as a guardian of the threads of fate, tasked with shaping the destinies of mortals and immortals alike. Their origins shrouded in mystery, Nemorias' existence became intertwined with the fabric of reality itself, their presence symbolizing the delicate balance between order and chaos.
 
-Yet, amidst the tapestry of existence, a shadow loomed in the form of Slorn, the Shaper of Chance. Born from the chaotic energies of the void, Slorn harboured a disdain for the structured nature of fate, seeking to disrupt the carefully woven threads that Nemorias meticulously crafted.
+Yet, amidst the tapestry of existence, a shadow loomed in the form of Slorn, the Shaper of Chance their sibling. Born from the chaotic energies of the void, Slorn harboured a disdain for the structured nature of fate, seeking to disrupt the carefully woven threads that Nemorias meticulously crafted.
 
 For eons, Nemorias and Slorn engaged in a cosmic struggle, their opposing ideologies clashing in a perpetual dance of creation and destruction. While Nemorias sought to uphold the principles of order and destiny, Slorn revelled in chaos, sowing seeds of uncertainty and unpredictability wherever they tread.
 
