@@ -1,15 +1,13 @@
 ![[IMAGE GOES HERE|400]]
 
-|                    |     |
-| ------------------ | --- |
-| Symbol             |     |
-| Alignment          |     |
-| Associated Deities |     |
-| Domain             |     |
-| Notable Members    |     |
-| Followers          |     |
+|                 |     |
+| --------------- | --- |
+| Symbol          |     |
+| Alignment       |     |
+| Goals           |     |
+| Notable Members |     |
 
-## Appearance
+## Description
 
 (Text Goes Here)
 

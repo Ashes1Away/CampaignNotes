@@ -1,12 +1,12 @@
 ---
 title: Campaign Notes + Wiki
 ---
-- [[Characters]]
+- [[List of Characters]]
 - [[Conditions]]
 - [[List of Deities|Deities]]
 - [[Events]]
 - [[Factions]]
-- [[History/index|History]]
+- [[Modern History|History]]
 - [[Locations]]
 - [[Player Characters]]
 - [[Ship Types]]
