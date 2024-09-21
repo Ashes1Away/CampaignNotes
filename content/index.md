@@ -6,7 +6,7 @@ title: Campaign Notes + Wiki
 - [[List of Deities|Deities]]
 - [[Events]]
 - [[Factions]]
-- [[Modern History|History]]
+- [[History Overview|History]]
 - [[Locations]]
 - [[Player Characters]]
 - [[Ship Types]]
