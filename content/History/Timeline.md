@@ -1,4 +1,4 @@
-### **0 PSC: The Great Stellar Collapse**
+### **0 PSC: The [[Great Stellar Collapse]]**
 
 - A mysterious cataclysm strikes a major galactic trade hub, causing several star systems to lose contact with each other. Governments fragment, and lawlessness begins to take hold in the outer reaches of the galaxy. This is seen as the beginning of the Age of Piracy.
 
