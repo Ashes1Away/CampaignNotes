@@ -6,7 +6,7 @@
 
 ## History
 
-"The Veil" is the shadowy leader of the Syndicate of Forgotten Suns, a figure more myth than man. A former pirate captain, they was known for their skill in evading capture and manipulating rivals. After several successful raids, they realized that true power lay in controlling the flow of goods, information, and people—thus, they shifted from raiding to orchestrating a criminal empire. They are never seen without their signature mask of shifting light, which constantly changes form, obscuring their true face and creating an aura of mystery and fear.
+"The Veil" is the shadowy leader of the [[Syndicate of Forgotten Suns]], a figure more myth than man. A former pirate captain, they was known for their skill in evading capture and manipulating rivals. After several successful raids, they realized that true power lay in controlling the flow of goods, information, and people—thus, they shifted from raiding to orchestrating a criminal empire. They are never seen without their signature mask of shifting light, which constantly changes form, obscuring their true face and creating an aura of mystery and fear.
 
 ## Interactions with party
 

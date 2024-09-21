@@ -6,7 +6,7 @@ Zyrelda cuts a striking figure, with her violet hair and tattoos glowing faintly
 
 ## History
 
-Captain Zyrelda "The Fang" is a flamboyant and unpredictable pirate queen, known for her wild raids and fearless demeanour. Once a noble who turned her back on a life of privilege, Zyrelda embraced the pirate life with reckless abandon, founding the Void Serpents and terrorizing the galaxy’s wealthiest convoys. Her signature ship, _[[The Serpent’s Fang]]_, is as sleek and deadly as its captain, capable of outrunning any pursuer. Zyrelda is known for her mastery of astral magic, which she uses to enhance her ship's speed and perform daring, almost impossible attacks.
+Captain Zyrelda "The Fang" is a flamboyant and unpredictable pirate queen, known for her wild raids and fearless demeanour. Once a noble who turned her back on a life of privilege, Zyrelda embraced the pirate life with reckless abandon, founding the [[Void Serpents]] and terrorizing the galaxy’s wealthiest convoys. Her signature ship, _[[The Serpent’s Fang]]_, is as sleek and deadly as its captain, capable of outrunning any pursuer. Zyrelda is known for her mastery of astral magic, which she uses to enhance her ship's speed and perform daring, almost impossible attacks.
 
 ## Interactions with party
 

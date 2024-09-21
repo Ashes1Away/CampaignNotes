@@ -6,7 +6,7 @@ Voss is strikingly elegant, with sharp features and a calm, composed demeanour t
 
 ## History
 
-Magistrate Loriel Voss is the mastermind behind the rise of the Guild of Iron Stars, a savvy businesswoman who transformed the guild from a defensive merchant alliance into an economic superpower. Coming from a background in high finance, Voss realized early on that true power came not from brute force but from wealth and the ability to control interstellar trade. Under her leadership, the Guild has outmanoeuvred pirates, governments, and privateers alike, maintaining a delicate balance between legitimate trade and covert dealings with the criminal underworld.
+Magistrate Loriel Voss is the mastermind behind the rise of the [[Guild of Iron Stars]], a savvy businesswoman who transformed the guild from a defensive merchant alliance into an economic superpower. Coming from a background in high finance, Voss realized early on that true power came not from brute force but from wealth and the ability to control interstellar trade. Under her leadership, the Guild has outmanoeuvred pirates, governments, and privateers alike, maintaining a delicate balance between legitimate trade and covert dealings with the criminal underworld.
 
 ## Interactions with party
 
