@@ -13,12 +13,12 @@
 	  - Ranged Weapon Attack
 	  - +4 to hit
 	  - Range 150/600 ft
-	  - Hit 16(3d10) piercing damage
+	  - Hit 16 (3d10) piercing damage
 - #### Piercing Lance :
 	  - Melee Weapon Attack
 	  - +4 to hit
 	  - Range 150/600 ft
-	  - Hit 16(3d10) piercing damage
+	  - Hit 16 (3d10) piercing damage
 
 ### Features
 - #### Engine Overcharge :

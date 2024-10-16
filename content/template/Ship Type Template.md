@@ -9,8 +9,16 @@
 | Sails       |     |
 
 ### Weapons
-- #### Name :
-	  - Details
+- #### name :
+	  - Weapon Attack
+	  - to hit
+	  - Range
+	  - Hit damage
+- #### name :
+	  -  Weapon Attack
+	  - to hit
+	  - Range
+	  - Hit damage
 
 ### Features
 - #### Name:
