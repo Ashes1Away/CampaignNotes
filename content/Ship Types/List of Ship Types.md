@@ -1,0 +1,1 @@
+-[[Light Scout Ship]]
