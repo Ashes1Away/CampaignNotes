@@ -7,6 +7,7 @@
 | Crew        | 5-8 (Min crew: 4)             |
 | Cargo       | 2 tonnes                      |
 | Sails       | 2 Radiant energy sails        |
+| Cost        | 10,000 gp                     |
 
 ### Weapons
 - #### 2 x Light Cannons :

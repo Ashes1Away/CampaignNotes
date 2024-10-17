@@ -7,6 +7,7 @@
 | Crew        |     |
 | Cargo       |     |
 | Sails       |     |
+| Cost        |     |
 
 ### Weapons
 - #### name :

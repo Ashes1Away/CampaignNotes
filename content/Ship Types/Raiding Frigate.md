@@ -7,6 +7,7 @@
 | Crew        | 20-30 (Min crew: 15)          |
 | Cargo       | 20 tonnes                     |
 | Sails       | 4 Broad energy sails          |
+| Cost        | 45,000 gp                     |
 
 ### Weapons
 - #### 10 x Heavy Cannons :

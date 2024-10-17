@@ -7,6 +7,7 @@
 | Crew        | 12-15 (Min Crew: 8)          |
 | Cargo       | 10 tonnes                    |
 | Sails       | 3 Retractable energy sails   |
+| Cost        | 25,000 gp                    |
 
 ### Weapons
 - #### 6 x Medium Cannons :
