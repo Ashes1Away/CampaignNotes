@@ -1,6 +1,6 @@
 |             |                                     |
 | ----------- | ----------------------------------- |
-| Size        | Gargantuan Vehicle (200 ft x 75 ft) |
+| Size        | Gargantuan Vehicle (190 ft x 75 ft) |
 | Armor Class | 17                                  |
 | Hit Points  | 800                                 |
 | Speed       | 30 ft                               |
@@ -20,7 +20,7 @@
 	  - +10 to hit
 	  - Range 500/2000 ft
 	  - Hit 60 (10d12) radiant damage, enemies within 10 ft radius take half damage
-  - #### Anti-Boarding Harpoon:
+  - #### 2 x Anti-Boarding Harpoon:
 	  -  Ranged Weapon Attack
 	  - +7to hit
 	  - Range 150 ft
